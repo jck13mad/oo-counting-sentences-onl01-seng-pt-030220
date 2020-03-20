@@ -20,6 +20,7 @@ class String
     
     puts my_array.uniq!.length 
     i = 0 
+    count = 0 
     
   end
 end
