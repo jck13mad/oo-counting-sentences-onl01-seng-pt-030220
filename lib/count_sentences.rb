@@ -16,7 +16,7 @@ class String
 
   def count_sentences
     my_array = []
-    my_array=self.split
+    my_array = self.split
     
     puts my_array.uniq!.length 
     i = 0 
