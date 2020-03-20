@@ -22,6 +22,6 @@ class String
     i = 0 
     count = 0 
     while i <my_array.length
-      
+      if ()
   end
 end
