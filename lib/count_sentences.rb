@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-    self.split(/[!.?]/).reject !(x.match(/\w+/))
+    self.split(/[!.?]/).reject !(x.match(/\w+/).nil)
   end
 end
