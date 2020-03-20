@@ -18,6 +18,6 @@ class String
     my_array = []
     my_array=self.split
     
-    puts 
+    puts my_array
   end
 end
