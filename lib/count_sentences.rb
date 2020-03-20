@@ -19,5 +19,7 @@ class String
     my_array=self.split
     
     puts my_array.uniq!.length 
+    i = 0 
+    
   end
 end
