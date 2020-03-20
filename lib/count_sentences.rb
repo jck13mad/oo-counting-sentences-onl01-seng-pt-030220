@@ -27,6 +27,6 @@ class String
       end
       i+=1 
     end
-    
+    return count
   end
 end
