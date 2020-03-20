@@ -22,6 +22,6 @@ class String
     i = 0 
     count = 0 
     while i <my_array.length
-      if (my_array[i].sentence? || my_array[i].question? )
+      if (my_array[i].sentence? || my_array[i].question? || my_array)
   end
 end
