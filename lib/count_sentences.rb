@@ -25,6 +25,6 @@ class String
       if (my_array[i].sentence? || my_array[i].question? || my_array[i].exclamation?) then
         count+=1 
       end
-      
+      i+=1 
   end
 end
