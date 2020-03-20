@@ -18,6 +18,6 @@ class String
     my_array = []
     my_array=self.split
     
-    puts my_array
+    puts my_array.uniq!
   end
 end
