@@ -26,5 +26,7 @@ class String
         count+=1 
       end
       i+=1 
+    end
+    
   end
 end
