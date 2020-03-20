@@ -16,6 +16,6 @@ class String
 
   def count_sentences
     my_array = []
-    
+    my_array
   end
 end
