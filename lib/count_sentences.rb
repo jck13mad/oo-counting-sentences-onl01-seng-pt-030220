@@ -21,6 +21,7 @@ class String
     puts my_array.uniq!.length 
     i = 0 
     count = 0 
-    
+    while i <my_array.length
+      
   end
 end
